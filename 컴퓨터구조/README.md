@@ -2,7 +2,8 @@
 
 ## 설명
 
-참고 도서를 바탕으로 정리한 **컴퓨터 구조 PDF 슬라이드 모음**입니다. GitHub에서 PDF 열람이 불편하다면 [해당 링크(노션 페이지)](https://subdued-march-f96.notion.site/263d5be0738f8033a67cfd8e3523a58e?pvs=74)
+- 참고 도서를 바탕으로 정리한 **컴퓨터 구조 PDF 슬라이드 모음**입니다. 
+- GitHub에서 PDF 열람이 불편하다면 [해당 링크(노션 페이지)](https://subdued-march-f96.notion.site/263d5be0738f8033a67cfd8e3523a58e?pvs=74)
 에서 확인하시면 됩니다.
 
 ## 참고 도서
